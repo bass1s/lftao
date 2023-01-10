@@ -8,4 +8,4 @@ idea: your favourite music -~-~-~=> self organizing novel sound map
 inspiration: 
 * plecto lfo
 * A Framework for Topological Music Analysis (TMA). arXiv:2204.09744v2
-* bsinmathandthirdeye.. $\bullet$ ;)
+* bsinmath.. $\bullet$ ;)
