@@ -1,8 +1,8 @@
 # LF $\tau $
 low frequency topological analysis oscillator
 
-idea: your favourite music -~-~-~=> self organizing novel sound map
-* using: math, Cycling74/Max-SDK, CUDA>=11.6, cuFFT, cuBLAS, cuDNN, Jansson
+idea: your favorite music -~-~-~=> self organizing novel sound search map
+* using: math, Cycling74/Max-SDK, CUDA>=11.6, cuFFT, cuBLAS, cuDNN, TensorRT, Jansson
 * using?: Dionysus 2, Ripser, GPU_ECC_SoCG2022, NVDIA/MinkowskiEngine
 
 inspiration: 
