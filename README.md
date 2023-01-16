@@ -7,7 +7,7 @@ using:
 * math
 * Cycling74/Max-SDK, Jansson
 * CUDA>=11.6, cuFFT, cuBLAS, cuDNN, TensorRT
-* HazyResearch/ state-spaces, H3
+* HazyResearch/ flash-attention, state-spaces, H3
 
 using?: Dionysus 2, Ripser, GPU_ECC_SoCG2022, NVDIA/MinkowskiEngine
 
